@@ -3,7 +3,7 @@
 ![What Did I Tell You](http://www.geekynews.com/pub/wp-content/uploads/2013/09/lloyd-back-to-the-future-439x247.jpg)
 
 ## Introduction
-
+Hello
 Marty McFly and Doc Brown just finished their student profiles. Now they need to merge their profiles into the `master` branch, so that they'll have a completed profile page.
 
 __This is what we will be working towards:__
